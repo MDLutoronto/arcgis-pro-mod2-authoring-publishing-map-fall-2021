@@ -3,6 +3,9 @@ title: "ArcGIS Pro Module 2 - Authoring and Publishing a Map (Fall 2021)"
 layout: "home"
 description: "Learn to create a map project which will include a legend, scale bar, an inset map, a title and a north arrow."
 created_date: 2022-01-12
+staff:
+    - name: Marcel Fortin
+      link: https://library.utoronto.ca/staff/marcel-fortin
 permalink: "/"  #! Remove this if not the homepage
 ---
 
