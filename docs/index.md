@@ -6,6 +6,9 @@ created_date: 2022-01-12
 staff:
     - name: Marcel Fortin
       link: https://library.utoronto.ca/staff/marcel-fortin
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 permalink: "/"  #! Remove this if not the homepage
 ---
 
