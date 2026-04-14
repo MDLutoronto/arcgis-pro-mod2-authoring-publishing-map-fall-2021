@@ -17,3 +17,5 @@ permalink: "/"  #! Remove this if not the homepage
 Learn to create a map project which will include a legend, scale bar, an inset map, a title and a north arrow.
 
 <iframe allowfullscreen="true" frameborder="0" height="569" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vSh_Yy5LdG_X-mg4DqLlU9hn7q8NRr1Xf0rL7tcDzUFuefJr3_6VRosbECcMyOqJg/embed?start=false&loop=false&delayms=3000" webkitallowfullscreen="true" width="960"></iframe>
+
+Technique: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
